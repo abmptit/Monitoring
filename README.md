@@ -1,4 +1,4 @@
-\# Monitoring
+# Monitoring
 
 Project for web Api monitoring
 
@@ -15,6 +15,9 @@ We will use :
 ### Elasticsearch
 
 ## How to launch it
+
+Install Docker Desktop for windows :
+https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
 execute the following commands :
 
