@@ -22,7 +22,7 @@ services:
       GF_AUTH_GOOGLE_CLIENT_ID: "557079132625-bs5kufso1q1uvht5qs9kpuqk669s529t.apps.googleusercontent.com"
       GF_AUTH_GOOGLE_CLIENT_SECRET: "Z_Ie8gdHrreNCUlE8gertNYX"
       GF_AUTH_GOOGLE_TOKEN_URL: "https://accounts.google.com/o/oauth2/token"
-      GF_AUTH_GOOGLE_ALLOWED_DOMAINS: "ecovadis.com, gmail.com"
+      GF_AUTH_GOOGLE_ALLOWED_DOMAINS: "ecovadis.com"
       GF_AUTH_GOOGLE_ALLOW_SIGN_UP: "true"
     #volumes:
     #  - ./grafana-data:/var/lib/grafana
