@@ -1,0 +1,14 @@
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.csproj.CoreCompileInputs.cache
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.AssemblyInfoInputs.cache
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.AssemblyInfo.cs
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\bin\Debug\netcoreapp2.2\SampleDotNetCoreApp.deps.json
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\bin\Debug\netcoreapp2.2\SampleDotNetCoreApp.runtimeconfig.json
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\bin\Debug\netcoreapp2.2\SampleDotNetCoreApp.runtimeconfig.dev.json
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\bin\Debug\netcoreapp2.2\SampleDotNetCoreApp.dll
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\bin\Debug\netcoreapp2.2\SampleDotNetCoreApp.pdb
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.csprojAssemblyReference.cache
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.RazorAssemblyInfo.cache
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.RazorAssemblyInfo.cs
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.RazorTargetAssemblyInfo.cache
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.dll
+C:\github\abmptit\Monitoring\SampleDotNetCoreApp\SampleDotNetCoreApp\obj\Debug\netcoreapp2.2\SampleDotNetCoreApp.pdb
