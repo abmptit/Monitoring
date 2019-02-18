@@ -9,10 +9,10 @@ services:
       - 9200:9200
     #volumes:
     #  - ./elasticsearch-data:/usr/share/elasticsearch/data
-  kibana:
-    build: ./kibana
-    ports:
-      - 5601:5601
+#  kibana:
+#    build: ./kibana
+#    ports:
+#      - 5601:5601
   grafana:
     build: ./grafana
     ports:
@@ -24,15 +24,16 @@ services:
       GF_AUTH_GOOGLE_TOKEN_URL: "https://accounts.google.com/o/oauth2/token"
       GF_AUTH_GOOGLE_ALLOWED_DOMAINS: "ecovadis.com"
       GF_AUTH_GOOGLE_ALLOW_SIGN_UP: "true"
+      GF_INSTALL_PLUGINS: "grafana-azure-monitor-datasource"
     #volumes:
     #  - ./grafana-data:/var/lib/grafana
-  influxdb:
-    build: ./influxdb
-    ports:
-    - 8083:8083
-    - 8086:8086
-    - 8090:8090
-    environment:
-      INFLUXDB_DATA_ENGINE: tsm1
-      PRE_CREATE_DB: "smashdb"
+#  influxdb:
+#    build: ./influxdb
+#    ports:
+#    - 8083:8083
+#    - 8086:8086
+#    - 8090:8090
+#    environment:
+#      INFLUXDB_DATA_ENGINE: tsm1
+#      PRE_CREATE_DB: "smashdb"
 
